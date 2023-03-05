@@ -1,10 +1,6 @@
 # Python-Tutorials
 <a name="Foobar"></a>
 # Foobar
-<br>
-[Installation-Python](#Installation)
-</br>
-[Installation-Python](#Installation)
 [Markdown - Link](#Link)
 [Markdown - Link](#Link)
 [Markdown - Link](#Link)
