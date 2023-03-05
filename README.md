@@ -2,15 +2,6 @@
 <a name="Foobar"></a>
 # Foobar
 [Markdown - Link](#Link)
-[Markdown - Link](#Link)
-[Markdown - Link](#Link)
-[Markdown - Link](#Link)
-[Markdown - Link](#Link)
-[Markdown - Link](#Link)
-[Markdown - Link](#Link)
-[Markdown - Link](#Link)
-[Markdown - Link](#Link)
-
 ## Installation 
 [Markdown - Link](#Link)
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
