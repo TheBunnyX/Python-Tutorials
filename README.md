@@ -2,9 +2,9 @@
 <a name="Foobar"></a>
 # Foobar
 <br>
-[Installation Python](#Installation-Python)
+[Installation Python](#Installation)
 </br>
-[Installation Python](#Installation-Python)
+[Installation Python](#Installation)
 
 [Markdown - Link](#Link)
 [Markdown - Link](#Link)
@@ -16,7 +16,7 @@
 [Markdown - Link](#Link)
 [Markdown - Link](#Link)
 
-## Installation Python
+## Installation 
 [Markdown - Link](#Link)
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 #real-cool-heading
