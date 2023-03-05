@@ -1,9 +1,18 @@
 # Python-Tutorials
 <a name="Foobar"></a>
 # Foobar
-Foobar is a Python library for dealing with word pluralization.
-#real-cool-heading
-## Installation
+[Installation Python](#Installation Python)
+[Markdown - Link](#Link)
+[Markdown - Link](#Link)
+[Markdown - Link](#Link)
+[Markdown - Link](#Link)
+[Markdown - Link](#Link)
+[Markdown - Link](#Link)
+[Markdown - Link](#Link)
+[Markdown - Link](#Link)
+[Markdown - Link](#Link)
+
+## Installation Python
 [Markdown - Link](#Link)
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 #real-cool-heading
